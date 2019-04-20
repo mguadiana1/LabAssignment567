@@ -1,7 +1,7 @@
 [{
   "id": 1,
-  "email": "lphan@shift3tech.com",
-  "username": "lphan",
+  "email": "mguadiana1@mail.fresnostate.edu",
+  "username": "mguadiana",
   "password": "abc123",
   "super_admin": true,
   "site_admin": true,
